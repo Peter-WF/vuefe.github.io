@@ -109,7 +109,7 @@ data: {
 <div v-bind:class="[{ active: isActive }, errorClass]">
 ```
 
-### 组件语法 
+### 组件语法
 
 > 这部分内容是假定你已经了解了 [Vue Components](components.html) 相关知识。你可以暂时跳过这里，随后再来阅读。
 
